@@ -1,0 +1,1 @@
+SELECT * FROM student_project.total_marks;
